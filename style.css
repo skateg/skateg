@@ -1,0 +1,17 @@
+body {
+    background-color: whitesmoke;
+    font-family: cursive;
+    color: black;
+}
+
+label.logo {
+    font-size: 100px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+
+p1 {
+    color: black;
+    size: 50px;
+    font-family: cursive;
+}
